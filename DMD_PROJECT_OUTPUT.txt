@@ -1,0 +1,246 @@
+1_DMD_sequence
+DMD Gene Sequence (first 100 bases): CATTTTATGAAGCCAGAATCACACTGGCACCAAAGCCAGGCAAAGATACCACAATAAAAGAACACTACAGGAGGGTAACTCTGATGTGTATAGATCCAAA
+CDS Sequence (first 100 bases): ATGCTTTGGTGGGAAGAAGTAGAGGACTGTTATGAAAGAGAAGATGTTCAAAAGAAAACATTCACAAAATGGGTAAATGCACAATTTTCTAAGTTTGGGA
+DMD RNA Sequence (first 100 bases): AUGCUUUGGUGGGAAGAAGUAGAGGACUGUUAUGAAAGAGAAGAUGUUCAAAAGAAAACAUUCACAAAAUGGGUAAAUGCACAAUUUUCUAAGUUUGGGA
+DMD Protein Sequence (partial): MLWWEEVEDCYEREDVQKKTFTKWVNAQFSKFGKQHIENLFSDLQDGRRL
+Length of DMD sequence: 2227382 bases
+GC content: 36.38%
+
+2_DMD_parse
+DMD Gene Synonyms: ['BMD; CMD3B; DXS142; DXS164; DXS206; DXS230; DXS239; DXS268; DXS269; DXS270; DXS272; MRX85']
+Database Cross-References: ['GeneID:1756', 'HGNC:HGNC:2928', 'MIM:300377']
+Dystrophin Protein Sequence (first 50 aa): MLWWEEVEDCYEREDVQKKTFTKWVNAQFSKFGKQHIENLFSDLQDGRRL
+Product: ['dystrophin isoform Dp427m']
+Note: ['Dp427m isoform is encoded by transcript variant Dp427m']
+Total Exons in DMD: 79
+
+3_DMD_analysis
+GC Content of DMD Gene: 36.38%
+EcoRI cut sites: 680
+BamHI cut sites: 186
+Occurrences of TATA box motif (TATAAA): 2114
+First 5 TATA box positions: [943, 1245, 2930, 3231, 3672]
+
+4_DMD_parse_genebank
+DMD Gene Features:
+  Gene: DMD, Synonyms: ['BMD; CMD3B; DXS142; DXS164; DXS206; DXS230; DXS239; DXS268; DXS269; DXS270; DXS272; MRX85'], DB_Xrefs: ['GeneID:1756', 'HGNC:HGNC:2928', 'MIM:300377']
+  Gene: TBCAP1, Synonyms: ['N/A'], DB_Xrefs: ['GeneID:494540', 'HGNC:HGNC:42630']
+  Gene: MIR548F5, Synonyms: ['hsa-mir-548f-5; MIR548F-5; MIRN548F5'], DB_Xrefs: ['GeneID:100302239', 'HGNC:HGNC:35309', 'miRBase:MI0006378']
+  Gene: MIR3915, Synonyms: ['N/A'], DB_Xrefs: ['GeneID:100500915', 'HGNC:HGNC:38955', 'miRBase:MI0016420']
+  Gene: NPM1P8, Synonyms: ['N/A'], DB_Xrefs: ['GeneID:100130233', 'HGNC:HGNC:7928']
+  Gene: RNA5SP501, Synonyms: ['RN5S501'], DB_Xrefs: ['GeneID:100873552', 'HGNC:HGNC:43401']
+  Gene: RNU6-894P, Synonyms: ['N/A'], DB_Xrefs: ['GeneID:106481461', 'HGNC:HGNC:47857']
+CDS Features (Dp427m isoform):
+  Product: dystrophin isoform Dp427m
+  Translation (first 50 aa): MLWWEEVEDCYEREDVQKKTFTKWVNAQFSKFGKQHIENLFSDLQDGRRL
+Total Exons: 79
+Promoter Features (Dp427m):
+  Note: Dp427m isoform is encoded by transcript variant Dp427m, Location: join{[133297:133328](+), [324409:324471](+), [494789:494882](+), [499749:499827](+), [521222:521315](+), [527969:528142](+), [534998:535117](+), [645316:645498](+), [646611:646740](+), [699457:699646](+), [700296:700478](+), [730156:730307](+), [748733:748853](+), [770763:770865](+), [770972:771080](+), [778728:778908](+), [799275:799451](+), [826478:826602](+), [842767:842855](+), [853091:853333](+), [859510:859691](+), [872300:872446](+), [875899:876112](+), [879910:880024](+), [881015:881171](+), [889777:889948](+), [895971:896154](+), [903295:903430](+), [906219:906369](+), [932696:932858](+), [954428:954539](+), [954935:955109](+), [958144:958300](+), [963929:964100](+), [979410:979590](+), [979899:980028](+), [981651:981822](+), [996081:996204](+), [998529:998667](+), [1001323:1001476](+), [1002327:1002510](+), [1034333:1034528](+), [1056908:1057081](+), [1127546:1127694](+), [1376095:1376271](+), [1412382:1412530](+), [1414864:1415014](+), [1469236:1469422](+), [1507790:1507892](+), [1524526:1524635](+), [1570417:1570650](+), [1614861:1614979](+), [1665023:1665235](+), [1686465:1686620](+), [1716747:1716937](+), [1837156:1837329](+), [1847665:1847822](+), [1865506:1865627](+), [1866235:1866504](+), [1899982:1900129](+), [1995975:1996054](+), [2020951:2021012](+), [2083593:2083655](+), [2121488:2121563](+), [2134910:2135112](+), [2137942:2138028](+), [2140491:2140649](+), [2161705:2161872](+), [2164128:2164240](+), [2165804:2165941](+), [2166639:2166678](+), [2171005:2171071](+), [2172196:2172262](+), [2175008:2175167](+), [2197091:2197335](+), [2198195:2198319](+), [2210415:2210508](+), [2217936:2217968](+), [2222679:2222691](+)}
+Sequence Length: 2227382 bases
+
+5_DMD_cds_analysis
+CDS Sequence (first 100 bases): ATGCTTTGGTGGGAAGAAGTAGAGGACTGTTATGAAAGAGAAGATGTTCAAAAGAAAACATTCACAAAATGGGTAAATGCACAATTTTCTAAGTTTGGGA
+CDS Length: 11058 bases
+DMD RNA Sequence (first 100 bases): AUGCUUUGGUGGGAAGAAGUAGAGGACUGUUAUGAAAGAGAAGAUGUUCAAAAGAAAACAUUCACAAAAUGGGUAAAUGCACAAUUUUCUAAGUUUGGGA
+DMD Protein Sequence (first 50 aa): MLWWEEVEDCYEREDVQKKTFTKWVNAQFSKFGKQHIENLFSDLQDGRRL
+Protein Length: 3685 amino acids
+
+Exon-wise CDS Lengths (non-zero only):
+Exon 1: 31 bases
+Exon 2: 62 bases
+Exon 3: 93 bases
+Exon 4: 78 bases
+Exon 5: 93 bases
+Exon 6: 173 bases
+Exon 7: 119 bases
+Exon 8: 182 bases
+Exon 9: 129 bases
+Exon 10: 189 bases
+Exon 11: 182 bases
+Exon 12: 151 bases
+Exon 13: 120 bases
+Exon 14: 102 bases
+Exon 15: 108 bases
+Exon 16: 180 bases
+Exon 17: 176 bases
+Exon 18: 124 bases
+Exon 19: 88 bases
+Exon 20: 242 bases
+Exon 21: 181 bases
+Exon 22: 146 bases
+Exon 23: 213 bases
+Exon 24: 114 bases
+Exon 25: 156 bases
+Exon 26: 171 bases
+Exon 27: 183 bases
+Exon 28: 135 bases
+Exon 29: 150 bases
+Exon 30: 162 bases
+Exon 31: 111 bases
+Exon 32: 174 bases
+Exon 33: 156 bases
+Exon 34: 171 bases
+Exon 35: 180 bases
+Exon 36: 129 bases
+Exon 37: 171 bases
+Exon 38: 123 bases
+Exon 39: 138 bases
+Exon 40: 153 bases
+Exon 41: 183 bases
+Exon 42: 195 bases
+Exon 43: 173 bases
+Exon 44: 148 bases
+Exon 45: 176 bases
+Exon 46: 148 bases
+Exon 47: 150 bases
+Exon 48: 186 bases
+Exon 49: 102 bases
+Exon 50: 109 bases
+Exon 51: 233 bases
+Exon 52: 118 bases
+Exon 53: 212 bases
+Exon 54: 155 bases
+Exon 55: 190 bases
+Exon 56: 173 bases
+Exon 57: 157 bases
+Exon 58: 121 bases
+Exon 59: 269 bases
+Exon 60: 147 bases
+Exon 61: 79 bases
+Exon 62: 61 bases
+Exon 63: 62 bases
+Exon 64: 75 bases
+Exon 65: 202 bases
+Exon 66: 86 bases
+Exon 67: 158 bases
+Exon 68: 167 bases
+Exon 69: 112 bases
+Exon 70: 137 bases
+Exon 71: 39 bases
+Exon 72: 66 bases
+Exon 73: 66 bases
+Exon 74: 159 bases
+Exon 75: 244 bases
+Exon 76: 124 bases
+Exon 77: 93 bases
+Exon 78: 32 bases
+Exon 79: 12 bases
+
+6_DMD_sequence_analysis
+Sequence Length: 2227382 bases
+Overall GC Content: 36.38%
+TATA Box (TATAAA) Count: 2114
+First 5 TATA Box Positions: [943, 1245, 2930, 3231, 3672]
+CpG Dinucleotide Count: 17761
+GC Content Windows (first 5): [32.2, 30.9, 37.8, 37.6, 32.9]
+
+7_DMD_restriction_analysis
+EcoRI Cut Sites: 680
+BamHI Cut Sites: 186
+
+EcoRI Cut Sites per Exon (non-zero only):
+Exon 20: 1 sites
+Exon 47: 1 sites
+Exon 53: 1 sites
+
+BamHI Cut Sites per Exon (non-zero only):
+Exon 4: 1 sites
+Exon 59: 1 sites
+Exon 66: 1 sites
+
+8_DMD_promoter_analysis
+Promoter Region Length: 1000 bases
+TATA Box (TATAAA) Count: 1
+TATA Box Positions (relative to TSS): [-944]
+CAAT Box (CCAAT) Count: 1
+CAAT Box Positions (relative to TSS): [-911]
+
+9_DMD_cds_alignment
+Dp427m CDS Length: 11058 bases
+Dp427c CDS Length: 11034 bases
+Alignment Score: 22055.80
+Sequence Identity (%): 99.94%
+
+10_DMD_protein_analysis
+Protein Length: 3685 amino acids
+Molecular Weight: 426686.45 Da
+Isoelectric Point: 5.64
+Instability Index: 56.37
+Amino Acid Composition: {'A': 213, 'C': 36, 'D': 193, 'E': 387, 'F': 81, 'G': 112, 'H': 88, 'I': 171, 'K': 293, 'L': 455, 'M': 80, 'N': 165, 'P': 131, 'Q': 308, 'R': 198, 'S': 243, 'T': 200, 'V': 197, 'W': 72, 'Y': 62}
+
+11_DMD_secondary_structure
+Protein Length: 3685 amino acids
+Secondary Structure Counts: {'helix': 1641, 'sheet': 783, 'coil': 1261}
+
+12_DMD_codon_usage
+Dp427m CDS Length: 11058 bases
+Number of Codons: 3686
+Codon Frequencies (%): {'ATG': 2.1703743895822027, 'CTT': 2.1161150298426477, 'TGG': 1.9533369506239826, 'GAA': 6.429734129137277, 'GTA': 1.0851871947911014, 'GAG': 4.0694519804666305, 'GAC': 2.1432447097124254, 'TGT': 0.40694519804666307, 'TAT': 1.166576234400434, 'AGA': 1.6549104720564298, 'GAT': 
+3.0927835051546393, 'GTT': 1.1394465545306565, 'CAA': 3.6353771025501898, 'AAG': 3.7710255018990777, 'AAA': 4.177970699945741, 'ACA': 2.0618556701030926, 'TTC': 0.705371676614216, 'AAT': 2.6587086272381986, 'GCA': 1.7905588714053173, 'TTT': 1.4921323928377646, 'TCT': 1.465002712967987, 'GGG': 0.5697232772653282, 'CAG': 4.720564297341292, 'CAT': 1.3564839934888768, 'ATT': 2.1161150298426477, 'AAC': 1.8176885512750949, 'CTC': 1.7905588714053173, 'AGT': 1.4921323928377646, 'CTA': 1.519262072707542, 'AGG': 1.2750949538795442, 'CGC': 0.48833423765599565, 'GGC': 0.705371676614216, 'CTG': 2.9028757460661967, 'CCA': 1.112316874660879, 'GGA': 1.2750949538795442, 'TCC': 1.0037981551817687, 'GCC': 1.709169831795985, 'GTC': 1.2479652740097666, 'CGG': 0.5968529571351058, 'TTG': 2.5501899077590884, 'TTA': 1.465002712967987, 'GTG': 1.87194791101465, 'ACT': 2.0075963103635375, 'ATC': 1.709169831795985, 
+'GGT': 0.48833423765599565, 'ATA': 0.8138903960933261, 'CAC': 1.0309278350515463, 'GCT': 2.0618556701030926, 'ACC': 1.0309278350515463, 'AGC': 1.0851871947911014, 'CGA': 0.7867607162235486, 'TCA': 1.3836136733586544, 'CGT': 0.5697232772653282, 'TGC': 0.5697232772653282, 'CCT': 1.465002712967987, 'TAC': 0.5154639175257731, 'ACG': 0.32555615843733043, 'TCG': 0.16277807921866522, 'GCG': 0.2170374389582203, 'CCC': 0.8681497558328812, 'CCG': 0.10851871947911015, 'TAG': 0.02712967986977754}
+
+13_DMD_cpg_islands
+Promoter Region Length: 1000 bases
+CpG Ratios (first 5): [0.26525198938992045, 0.23894862604540026, 0.1953125, 0.0, 0.0]
+GC Contents (first 5): [27.500000000000004, 28.999999999999996, 32.0, 28.999999999999996, 28.000000000000004]
+CpG Islands (position, ratio, GC%): []
+
+14_DMD_kmer_analysis
+Dp427m CDS Length: 11058 bases
+Number of 6-mers: 11053
+Top 10 6-mers: [('GAAGAA', 0.253324889170361), ('AGAAGA', 0.22618293675925089), ('AAAGAA', 0.21713561928888084), ('AAGAAA', 0.20808830181851085), ('GAAAAA', 0.20808830181851085), ('TGGAAG', 0.20808830181851085), ('TGAAGA', 0.20808830181851085), ('AAAGAG', 0.18999366687777072), ('AAAAGA', 0.18999366687777072), ('AGAAAA', 0.1809463494074007)]
+
+15_DMD_variant_analysis
+Dp427m CDS Length: 11058 bases
+Mutation: C to T at position 2999 (codon 1000)
+Wild-type Protein Length: 3685 amino acids
+Mutated Protein Length: 3685 amino acids
+Alignment Score: 7370.00
+Sequence Identity (%): 100.00%
+
+16_DMD_real_variant
+Position 2971 is A, not C. Variant may not be applicable.
+Dp427m CDS Length: 11058 bases
+Variant: c.2971C>T at position 2971 (codon 991)
+Wild-type Protein Length: 3685 amino acids
+Mutated Protein Length: 3685 amino acids
+Alignment Score: 7367.00
+Sequence Identity (%): 99.96%
+
+17_DMD_multi_variant
+Position 2971 is A, not C. Variant may not be applicable.
+Variant at 2971 (C>T): Mutated Protein Length: 3685 aa, Score: 7367.00
+Warning: Position 3103 is A, not C. Variant may not be applicable.
+Variant at 3103 (C>T): Mutated Protein Length: 3685 aa, Score: 7367.00
+Dp427m CDS Length: 11058 bases
+Wild-type Protein Length: 3685 amino acids
+Average Alignment Score: 7367.00
+
+18_DMD_vcf_parsing
+Dp427m CDS Length: 11058 bases
+Variant Counts: {'stop-gained': 1, 'frameshift': 1, 'missense': 1, 'other': 0}
+
+19_DMD_variant_impact
+Warning: Position 0 is C, not C. Variant may not be applicable.  # Adjusted for mock VCF
+Warning: Position 1 is G, not G. Variant may not be applicable.
+Warning: Position 11 is T, not T. Variant may not be applicable.
+Dp427m CDS Length: 11058 bases
+Variant at 3114019 (C>T): Mutated Protein Length: 3685 aa, Score: 7367.00
+Variant at 3114020 (G>A): Mutated Protein Length: 3685 aa, Score: 7367.00
+Variant at 3114030 (T>C): Mutated Protein Length: 3685 aa, Score: 7367.00
+Wild-type Protein Length: 3685 amino acids
+Average Alignment Score: 7367.00
+
+20_DMD_statistical_analysis
+Warning: Position 0 is C, not C. Variant may not be applicable.
+Warning: Position 1 is G, not G. Variant may not be applicable.
+Warning: Position 11 is T, not T. Variant may not be applicable.
+Dp427m CDS Length: 11058 bases
+Wild-type Protein Length: 3685 amino acids
+Variant Counts: {'stop-gained': 1, 'frameshift': 1, 'missense': 1}
+Variant Frequencies (%): {'stop-gained': 33.33, 'frameshift': 33.33, 'missense': 33.33}
+Average Alignment Score Reduction: 0.00
+Severity Distribution: {'high': 2, 'low': 1}
+
+21_DMD_enhancement
+Variant Effect Counts: {'HIGH': 1, 'MODERATE': 1, 'LOW': 0, 'MODIFIER': 0}

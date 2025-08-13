@@ -1,0 +1,1157 @@
+LOCUS       NM_000109              13854 bp    mRNA    linear   PRI 27-APR-2025
+DEFINITION  Homo sapiens dystrophin (DMD), transcript variant Dp427c, mRNA.
+ACCESSION   NM_000109
+VERSION     NM_000109.4
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 13854)
+  AUTHORS   Chen,L., Luo,X., Wang,H., Tian,Y. and Liu,Y.
+  TITLE     Identifying inversions with breakpoints in the Dystrophin gene
+            through long-read sequencing: report of two cases
+  JOURNAL   BMC Med Genomics 17 (1), 227 (2024)
+   PUBMED   39251998
+  REMARK    GeneRIF: Identifying inversions with breakpoints in the Dystrophin
+            gene through long-read sequencing: report of two cases.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 13854)
+  AUTHORS   Chen,J., Jia,Y., Zhong,J., Zhang,K., Dai,H., He,G., Li,F., Zeng,L.,
+            Fan,C. and Xu,H.
+  TITLE     Novel mutation leading to splice donor loss in a conserved site of
+            DMD gene causes Duchenne muscular dystrophy with cryptorchidism
+  JOURNAL   J Med Genet 61 (8), 741-749 (2024)
+   PUBMED   38621993
+  REMARK    GeneRIF: Novel mutation leading to splice donor loss in a conserved
+            site of DMD gene causes Duchenne muscular dystrophy with
+            cryptorchidism.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 13854)
+  AUTHORS   Davies,K.E. and Vogt,J.
+  TITLE     Long-term clinical follow-up of a family with Becker muscular
+            dystrophy associated with a large deletion in the DMD gene
+  JOURNAL   Neuromuscul Disord 39, 5-9 (2024)
+   PUBMED   38653179
+  REMARK    GeneRIF: Long-term clinical follow-up of a family with Becker
+            muscular dystrophy associated with a large deletion in the DMD
+            gene.
+            Erratum:[Neuromuscul Disord. 2024 Jun;39:54. doi:
+            10.1016/j.nmd.2024.05.010. PMID: 38801812]
+REFERENCE   4  (bases 1 to 13854)
+  AUTHORS   Achermann,J.C. and Vilain,E.J.
+  TITLE     NR0B1-Related Adrenal Hypoplasia Congenita
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and
+            Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301604
+REFERENCE   5  (bases 1 to 13854)
+  AUTHORS   Hershberger,R.E. and Jordan,E.
+  TITLE     Dilated Cardiomyopathy Overview
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and
+            Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301486
+REFERENCE   6  (bases 1 to 13854)
+  AUTHORS   Darras,B.T., Urion,D.K. and Ghosh,P.S.
+  TITLE     Dystrophinopathies
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE and
+            Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301298
+REFERENCE   7  (bases 1 to 13854)
+  AUTHORS   Nigro,V., Politano,L., Nigro,G., Romano,S.C., Molinari,A.M. and
+            Puca,G.A.
+  TITLE     Detection of a nonsense mutation in the dystrophin gene by multiple
+            SSCP
+  JOURNAL   Hum Mol Genet 1 (7), 517-520 (1992)
+   PUBMED   1307253
+REFERENCE   8  (bases 1 to 13854)
+  AUTHORS   Gorecki,D.C., Monaco,A.P., Derry,J.M., Walker,A.P., Barnard,E.A.
+            and Barnard,P.J.
+  TITLE     Expression of four alternative dystrophin transcripts in brain
+            regions regulated by different promoters
+  JOURNAL   Hum Mol Genet 1 (7), 505-510 (1992)
+   PUBMED   1307251
+REFERENCE   9  (bases 1 to 13854)
+  AUTHORS   Lederfein,D., Levy,Z., Augier,N., Mornet,D., Morris,G., Fuchs,O.,
+            Yaffe,D. and Nudel,U.
+  TITLE     A 71-kilodalton protein is a major product of the Duchenne muscular
+            dystrophy gene in brain and other nonmuscle tissues
+  JOURNAL   Proc Natl Acad Sci U S A 89 (12), 5346-5350 (1992)
+   PUBMED   1319059
+REFERENCE   10 (bases 1 to 13854)
+  AUTHORS   Koenig,M., Monaco,A.P. and Kunkel,L.M.
+  TITLE     The complete sequence of dystrophin predicts a rod-shaped
+            cytoskeletal protein
+  JOURNAL   Cell 53 (2), 219-228 (1988)
+   PUBMED   3282674
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL050305.9, AL451144.5,
+            AL096699.11, AC004468.1, AL031542.1, AL109609.5, AL139278.12,
+            AC096506.5, AC093193.11, AC079864.22, AC093167.11, AC079175.24,
+            AC079177.21, AC090632.13, AC078958.30, AC079143.17 and AC006061.1.
+            
+            On Jun 2, 2019 this sequence version replaced NM_000109.3.
+            
+            Summary: This gene spans a genomic range of greater than 2 Mb and
+            encodes a large protein containing an N-terminal actin-binding
+            domain and multiple spectrin repeats. The encoded protein forms a
+            component of the dystrophin-glycoprotein complex (DGC), which
+            bridges the inner cytoskeleton and the extracellular matrix.
+            Deletions, duplications, and point mutations at this gene locus may
+            cause Duchenne muscular dystrophy (DMD), Becker muscular dystrophy
+            (BMD), or cardiomyopathy. Alternative promoter usage and
+            alternative splicing result in numerous distinct transcript
+            variants and protein isoforms for this gene. [provided by RefSeq,
+            Dec 2016].
+            
+            Transcript Variant: transcript Dp427c is expressed predominantly in
+            neurons of the cortex and the CA regions of the hippocampus. It
+            uses a unique promoter/exon 1 located about 130 kb upstream of the
+            Dp427m transcript promoter. The transcript includes the common exon
+            2 of transcript Dp427m and has a similar length of 14 kb. The
+            Dp427c isoform contains a unique N-terminal MED sequence, instead
+            of the MLWWEEVEDCY sequence of isoform Dp427m. The remainder of
+            isoform Dp427c is identical to isoform Dp427m.
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            RNAseq introns :: mixed sample support SAMEA1965299, SAMEA1966682
+                              [ECO:0006172]
+            ##Evidence-Data-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-130               AL050305.9         14683-14812         c
+            131-192             AL451144.5         64345-64406         c
+            193-285             AL096699.11        183805-183897       c
+            286-363             AL096699.11        178860-178937       c
+            364-456             AL096699.11        157372-157464       c
+            457-629             AL096699.11        150545-150717       c
+            630-748             AL096699.11        143570-143688       c
+            749-930             AL096699.11        33189-33370         c
+            931-1059            AL096699.11        31947-32075         c
+            1060-1248           AC004468.1         33996-34184
+            1249-1430           AC004468.1         34835-35016
+            1431-1581           AC004468.1         64695-64845
+            1582-1701           AC004468.1         83272-83391
+            1702-1803           AC004468.1         105302-105403
+            1804-1911           AC004468.1         105511-105618
+            1912-2091           AC004468.1         113267-113446
+            2092-2267           AL031542.1         126054-126229       c
+            2268-2391           AL031542.1         98903-99026         c
+            2392-2479           AL031542.1         82650-82737         c
+            2480-2721           AL031542.1         72172-72413         c
+            2722-2902           AL031542.1         65814-65994         c
+            2903-3048           AL031542.1         53059-53204         c
+            3049-3261           AL031542.1         49393-49605         c
+            3262-3375           AL031542.1         45481-45594         c
+            3376-3531           AL031542.1         44334-44489         c
+            3532-3702           AL031542.1         35557-35727         c
+            3703-3885           AL031542.1         29351-29533         c
+            3886-4020           AL031542.1         22075-22209         c
+            4021-4170           AL031542.1         19136-19285         c
+            4171-4332           AL109609.5         101645-101806       c
+            4333-4443           AL109609.5         79964-80074         c
+            4444-4617           AL109609.5         79394-79567         c
+            4618-4773           AL109609.5         76203-76358         c
+            4774-4944           AL109609.5         70403-70573         c
+            4945-5124           AL109609.5         54913-55092         c
+            5125-5253           AL109609.5         54475-54603         c
+            5254-5424           AL109609.5         52681-52851         c
+            5425-5547           AL109609.5         38299-38421         c
+            5548-5685           AL109609.5         35836-35973         c
+            5686-5838           AL109609.5         33027-33179         c
+            5839-6021           AL109609.5         31993-32175         c
+            6022-6090           AL109609.5         101-169             c
+            6091-6216           AL139278.12        95741-95866         c
+            6217-6389           AC096506.5         116719-116891       c
+            6390-6537           AC096506.5         46106-46253         c
+            6538-6713           AC093193.11        75522-75697         c
+            6714-6861           AC093193.11        39263-39410         c
+            6862-7011           AC093193.11        36779-36928         c
+            7012-7197           AC079864.22        141599-141784       c
+            7198-7299           AC079864.22        103129-103230       c
+            7300-7408           AC079864.22        86386-86494         c
+            7409-7641           AC079864.22        40371-40603         c
+            7642-7759           AC093167.11        69474-69591         c
+            7760-7971           AC093167.11        19218-19429         c
+            7972-8126           AC079175.24        4086-4240
+            8127-8316           AC079175.24        34368-34557
+            8317-8489           AC079175.24        154777-154949
+            8490-8646           AC079177.21        151290-151446       c
+            8647-8767           AC079177.21        133485-133605       c
+            8768-9036           AC079177.21        132608-132876       c
+            9037-9183           AC079177.21        98983-99129         c
+            9184-9262           AC079177.21        3058-3136           c
+            9263-9323           AC090632.13        23849-23909
+            9324-9385           AC078958.30        133368-133429       c
+            9386-9460           AC078958.30        95460-95534         c
+            9461-9662           AC078958.30        81911-82112         c
+            9663-9748           AC078958.30        78995-79080         c
+            9749-9906           AC078958.30        76374-76531         c
+            9907-10073          AC078958.30        55151-55317         c
+            10074-10185         AC078958.30        52783-52894         c
+            10186-10322         AC078958.30        51082-51218         c
+            10323-10361         AC078958.30        50345-50383         c
+            10362-10427         AC078958.30        45952-46017         c
+            10428-10493         AC078958.30        44761-44826         c
+            10494-10652         AC078958.30        41856-42014         c
+            10653-10896         AC078958.30        19688-19931         c
+            10897-11020         AC078958.30        18704-18827         c
+            11021-11113         AC078958.30        6515-6607           c
+            11114-11145         AC079143.17        2357-2388           c
+            11146-13854         AC006061.1         90995-93703         c
+FEATURES             Location/Qualifiers
+     source          1..13854
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xp21.2-p21.1"
+     gene            1..13854
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="dystrophin"
+                     /db_xref="GeneID:1756"
+                     /db_xref="HGNC:HGNC:2928"
+                     /db_xref="MIM:300377"
+     exon            1..130
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    28..30
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="upstream in-frame stop codon"
+     CDS             124..11157
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="isoform Dp427c is encoded by transcript variant
+                     Dp427c; mutant dystrophin"
+                     /codon_start=1
+                     /product="dystrophin isoform Dp427c"
+                     /protein_id="NP_000100.3"
+                     /db_xref="GeneID:1756"
+                     /db_xref="HGNC:HGNC:2928"
+                     /db_xref="MIM:300377"
+                     /translation="MEDEREDVQKKTFTKWVNAQFSKFGKQHIENLFSDLQDGRRLLD
+                     LLEGLTGQKLPKEKGSTRVHALNNVNKALRVLQNNNVDLVNIGSTDIVDGNHKLTLGL
+                     IWNIILHWQVKNVMKNIMAGLQQTNSEKILLSWVRQSTRNYPQVNVINFTTSWSDGLA
+                     LNALIHSHRPDLFDWNSVVCQQSATQRLEHAFNIARYQLGIEKLLDPEDVDTTYPDKK
+                     SILMYITSLFQVLPQQVSIEAIQEVEMLPRPPKVTKEEHFQLHHQMHYSQQITVSLAQ
+                     GYERTSSPKPRFKSYAYTQAAYVTTSDPTRSPFPSQHLEAPEDKSFGSSLMESEVNLD
+                     RYQTALEEVLSWLLSAEDTLQAQGEISNDVEVVKDQFHTHEGYMMDLTAHQGRVGNIL
+                     QLGSKLIGTGKLSEDEETEVQEQMNLLNSRWECLRVASMEKQSNLHRVLMDLQNQKLK
+                     ELNDWLTKTEERTRKMEEEPLGPDLEDLKRQVQQHKVLQEDLEQEQVRVNSLTHMVVV
+                     VDESSGDHATAALEEQLKVLGDRWANICRWTEDRWVLLQDILLKWQRLTEEQCLFSAW
+                     LSEKEDAVNKIHTTGFKDQNEMLSSLQKLAVLKADLEKKKQSMGKLYSLKQDLLSTLK
+                     NKSVTQKTEAWLDNFARCWDNLVQKLEKSTAQISQAVTTTQPSLTQTTVMETVTTVTT
+                     REQILVKHAQEELPPPPPQKKRQITVDSEIRKRLDVDITELHSWITRSEAVLQSPEFA
+                     IFRKEGNFSDLKEKVNAIEREKAEKFRKLQDASRSAQALVEQMVNEGVNADSIKQASE
+                     QLNSRWIEFCQLLSERLNWLEYQNNIIAFYNQLQQLEQMTTTAENWLKIQPTTPSEPT
+                     AIKSQLKICKDEVNRLSDLQPQIERLKIQSIALKEKGQGPMFLDADFVAFTNHFKQVF
+                     SDVQAREKELQTIFDTLPPMRYQETMSAIRTWVQQSETKLSIPQLSVTDYEIMEQRLG
+                     ELQALQSSLQEQQSGLYYLSTTVKEMSKKAPSEISRKYQSEFEEIEGRWKKLSSQLVE
+                     HCQKLEEQMNKLRKIQNHIQTLKKWMAEVDVFLKEEWPALGDSEILKKQLKQCRLLVS
+                     DIQTIQPSLNSVNEGGQKIKNEAEPEFASRLETELKELNTQWDHMCQQVYARKEALKG
+                     GLEKTVSLQKDLSEMHEWMTQAEEEYLERDFEYKTPDELQKAVEEMKRAKEEAQQKEA
+                     KVKLLTESVNSVIAQAPPVAQEALKKELETLTTNYQWLCTRLNGKCKTLEEVWACWHE
+                     LLSYLEKANKWLNEVEFKLKTTENIPGGAEEISEVLDSLENLMRHSEDNPNQIRILAQ
+                     TLTDGGVMDELINEELETFNSRWRELHEEAVRRQKLLEQSIQSAQETEKSLHLIQESL
+                     TFIDKQLAAYIADKVDAAQMPQEAQKIQSDLTSHEISLEEMKKHNQGKEAAQRVLSQI
+                     DVAQKKLQDVSMKFRLFQKPANFEQRLQESKMILDEVKMHLPALETKSVEQEVVQSQL
+                     NHCVNLYKSLSEVKSEVEMVIKTGRQIVQKKQTENPKELDERVTALKLHYNELGAKVT
+                     ERKQQLEKCLKLSRKMRKEMNVLTEWLAATDMELTKRSAVEGMPSNLDSEVAWGKATQ
+                     KEIEKQKVHLKSITEVGEALKTVLGKKETLVEDKLSLLNSNWIAVTSRAEEWLNLLLE
+                     YQKHMETFDQNVDHITKWIIQADTLLDESEKKKPQQKEDVLKRLKAELNDIRPKVDST
+                     RDQAANLMANRGDHCRKLVEPQISELNHRFAAISHRIKTGKASIPLKELEQFNSDIQK
+                     LLEPLEAEIQQGVNLKEEDFNKDMNEDNEGTVKELLQRGDNLQQRITDERKREEIKIK
+                     QQLLQTKHNALKDLRSQRRKKALEISHQWYQYKRQADDLLKCLDDIEKKLASLPEPRD
+                     ERKIKEIDRELQKKKEELNAVRRQAEGLSEDGAAMAVEPTQIQLSKRWREIESKFAQF
+                     RRLNFAQIHTVREETMMVMTEDMPLEISYVPSTYLTEITHVSQALLEVEQLLNAPDLC
+                     AKDFEDLFKQEESLKNIKDSLQQSSGRIDIIHSKKTAALQSATPVERVKLQEALSQLD
+                     FQWEKVNKMYKDRQGRFDRSVEKWRRFHYDIKIFNQWLTEAEQFLRKTQIPENWEHAK
+                     YKWYLKELQDGIGQRQTVVRTLNATGEEIIQQSSKTDASILQEKLGSLNLRWQEVCKQ
+                     LSDRKKRLEEQKNILSEFQRDLNEFVLWLEEADNIASIPLEPGKEQQLKEKLEQVKLL
+                     VEELPLRQGILKQLNETGGPVLVSAPISPEEQDKLENKLKQTNLQWIKVSRALPEKQG
+                     EIEAQIKDLGQLEKKLEDLEEQLNHLLLWLSPIRNQLEIYNQPNQEGPFDVKETEIAV
+                     QAKQPDVEEILSKGQHLYKEKPATQPVKRKLEDLSSEWKAVNRLLQELRAKQPDLAPG
+                     LTTIGASPTQTVTLVTQPVVTKETAISKLEMPSSLMLEVPALADFNRAWTELTDWLSL
+                     LDQVIKSQRVMVGDLEDINEMIIKQKATMQDLEQRRPQLEELITAAQNLKNKTSNQEA
+                     RTIITDRIERIQNQWDEVQEHLQNRRQQLNEMLKDSTQWLEAKEEAEQVLGQARAKLE
+                     SWKEGPYTVDAIQKKITETKQLAKDLRQWQTNVDVANDLALKLLRDYSADDTRKVHMI
+                     TENINASWRSIHKRVSEREAALEETHRLLQQFPLDLEKFLAWLTEAETTANVLQDATR
+                     KERLLEDSKGVKELMKQWQDLQGEIEAHTDVYHNLDENSQKILRSLEGSDDAVLLQRR
+                     LDNMNFKWSELRKKSLNIRSHLEASSDQWKRLHLSLQELLVWLQLKDDELSRQAPIGG
+                     DFPAVQKQNDVHRAFKRELKTKEPVIMSTLETVRIFLTEQPLEGLEKLYQEPRELPPE
+                     ERAQNVTRLLRKQAEEVNTEWEKLNLHSADWQRKIDETLERLRELQEATDELDLKLRQ
+                     AEVIKGSWQPVGDLLIDSLQDHLEKVKALRGEIAPLKENVSHVNDLARQLTTLGIQLS
+                     PYNLSTLEDLNTRWKLLQVAVEDRVRQLHEAHRDFGPASQHFLSTSVQGPWERAISPN
+                     KVPYYINHETQTTCWDHPKMTELYQSLADLNNVRFSAYRTAMKLRRLQKALCLDLLSL
+                     SAACDALDQHNLKQNDQPMDILQIINCLTTIYDRLEQEHNNLVNVPLCVDMCLNWLLN
+                     VYDTGRTGRIRVLSFKTGIISLCKAHLEDKYRYLFKQVASSTGFCDQRRLGLLLHDSI
+                     QIPRQLGEVASFGGSNIEPSVRSCFQFANNKPEIEAALFLDWMRLEPQSMVWLPVLHR
+                     VAAAETAKHQAKCNICKECPIIGFRYRSLKHFNYDICQSCFFSGRVAKGHKMHYPMVE
+                     YCTPTTSGEDVRDFAKVLKNKFRTKRYFAKHPRMGYLPVQTVLEGDNMETPVTLINFW
+                     PVDSAPASSPQLSHDDTHSRIEHYASRLAEMENSNGSYLNDSISPNESIDDEHLLIQH
+                     YCQSLNQDSPLSQPRSPAQILISLESEERGELERILADLEEENRNLQAEYDRLKQQHE
+                     HKGLSPLPSPPEMMPTSPQSPRDAELIAEAKLLRQHKGRLEARMQILEDHNKQLESQL
+                     HRLRQLLEQPQAEAKVNGTTVSSPSTSLQRSDSSQPMLLRVVGSQTSDSMGEEDLLSP
+                     PQDTSTGLEEVMEQLNNSFPSSRGRNTPGKPMREDTM"
+     misc_feature    124..132
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: dystrophin Dp427c unique N-terminus"
+     misc_feature    133..819
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: Actin binding domain"
+     misc_feature    856..9219
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: central rod domain"
+     misc_feature    856..1080
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: hinge region 1"
+     misc_feature    1108..1440
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 1"
+     misc_feature    1441..1767
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 2"
+     misc_feature    1768..2100
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 3"
+     misc_feature    2101..2250
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: hinge region 2"
+     misc_feature    2251..2583
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 4"
+     misc_feature    2584..2901
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 5"
+     misc_feature    2902..3234
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 6"
+     misc_feature    3235..3561
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 7"
+     misc_feature    3562..3888
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 8"
+     misc_feature    3889..4200
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 9"
+     misc_feature    4201..4488
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 10"
+     misc_feature    4480..4803
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 11"
+     misc_feature    4804..5127
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 12"
+     misc_feature    5128..5433
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 13"
+     misc_feature    5434..5721
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 14"
+     misc_feature    5722..6018
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 15"
+     misc_feature    6073..6402
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 16"
+     misc_feature    6403..6723
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 17"
+     misc_feature    6724..7053
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 18"
+     misc_feature    7054..7368
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 19"
+     misc_feature    7369..7509
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: hinge region 3"
+     misc_feature    7510..7830
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 20"
+     misc_feature    7831..8157
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 21"
+     misc_feature    8158..8505
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 22"
+     misc_feature    8506..8892
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 23"
+     misc_feature    8893..9219
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: repeat region 24"
+     misc_feature    9139..9435
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: hinge region 4"
+     misc_feature    9265..9375
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: WW-domain"
+     misc_feature    9337..10323
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="dystroglycan binding site"
+     misc_feature    9397..9999
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: Cysteine-rich domain"
+     misc_feature    9487..9570
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: EF-hand 1"
+     misc_feature    9631..9717
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: EF-hand 2"
+     misc_feature    9997..11154
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: Carboxy-terminal region"
+     misc_feature    10018..10161
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: ZZ-domain"
+     misc_feature    10429..10581
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="alpha1-syntrophin binding site"
+     misc_feature    10582..10704
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="beta1-syntrophin binding site"
+     misc_feature    10771..10878
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="Region: (Leu)6-heptad repeat"
+     exon            131..192
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            193..285
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            286..363
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            364..456
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            457..629
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            630..748
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            749..930
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            931..1059
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1060..1248
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1249..1430
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1431..1581
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1582..1701
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1702..1803
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1804..1911
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1912..2091
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2092..2267
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2268..2391
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2392..2479
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2480..2721
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2722..2902
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2903..3048
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3049..3261
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3262..3375
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3376..3531
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3532..3702
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3703..3885
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3886..4020
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4021..4170
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4171..4332
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4333..4443
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4444..4617
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4618..4773
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4774..4944
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4945..5124
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5125..5253
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5254..5424
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5425..5547
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5548..5685
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5686..5838
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            5839..6021
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            6022..6216
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            6217..6389
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            6390..6537
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            6538..6713
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            6714..6861
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            6862..7011
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7012..7197
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7198..7299
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7300..7408
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7409..7641
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7642..7759
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7760..7971
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            7972..8126
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            8127..8316
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            8317..8489
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            8490..8646
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            8647..8767
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            8768..9036
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9037..9183
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9184..9262
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9263..9323
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9324..9385
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9386..9460
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9461..9662
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9663..9748
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9749..9906
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            9907..10073
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10074..10185
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10186..10322
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10323..10361
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10362..10427
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10428..10493
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10494..10652
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10653..10896
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            10897..11020
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            11021..11113
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            11114..11145
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     exon            11146..13854
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      13826..13831
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="hexamer: AATAAA"
+     polyA_site      13854
+                     /gene="DMD"
+                     /gene_synonym="BMD; CMD3B; DXS142; DXS164; DXS206; DXS230;
+                     DXS239; DXS268; DXS269; DXS270; DXS272; MRX85"
+                     /note="major polyA site"
+ORIGIN      
+        1 ggcagtaata gaatgctttc aggaagatga cagaatcagg agaaagatgc tgttttgcac
+       61 tatcttgatt tgttacagca gccaacttat tggcatgatg gagtgacagg aaaaacagct
+      121 ggcatggaag atgaaagaga agatgttcaa aagaaaacat tcacaaaatg ggtaaatgca
+      181 caattttcta agtttgggaa gcagcatatt gagaacctct tcagtgacct acaggatggg
+      241 aggcgcctcc tagacctcct cgaaggcctg acagggcaaa aactgccaaa agaaaaagga
+      301 tccacaagag ttcatgccct gaacaatgtc aacaaggcac tgcgggtttt gcagaacaat
+      361 aatgttgatt tagtgaatat tggaagtact gacatcgtag atggaaatca taaactgact
+      421 cttggtttga tttggaatat aatcctccac tggcaggtca aaaatgtaat gaaaaatatc
+      481 atggctggat tgcaacaaac caacagtgaa aagattctcc tgagctgggt ccgacaatca
+      541 actcgtaatt atccacaggt taatgtaatc aacttcacca ccagctggtc tgatggcctg
+      601 gctttgaatg ctctcatcca tagtcatagg ccagacctat ttgactggaa tagtgtggtt
+      661 tgccagcagt cagccacaca acgactggaa catgcattca acatcgccag atatcaatta
+      721 ggcatagaga aactactcga tcctgaagat gttgatacca cctatccaga taagaagtcc
+      781 atcttaatgt acatcacatc actcttccaa gttttgcctc aacaagtgag cattgaagcc
+      841 atccaggaag tggaaatgtt gccaaggcca cctaaagtga ctaaagaaga acattttcag
+      901 ttacatcatc aaatgcacta ttctcaacag atcacggtca gtctagcaca gggatatgag
+      961 agaacttctt cccctaagcc tcgattcaag agctatgcct acacacaggc tgcttatgtc
+     1021 accacctctg accctacacg gagcccattt ccttcacagc atttggaagc tcctgaagac
+     1081 aagtcatttg gcagttcatt gatggagagt gaagtaaacc tggaccgtta tcaaacagct
+     1141 ttagaagaag tattatcgtg gcttctttct gctgaggaca cattgcaagc acaaggagag
+     1201 atttctaatg atgtggaagt ggtgaaagac cagtttcata ctcatgaggg gtacatgatg
+     1261 gatttgacag cccatcaggg ccgggttggt aatattctac aattgggaag taagctgatt
+     1321 ggaacaggaa aattatcaga agatgaagaa actgaagtac aagagcagat gaatctccta
+     1381 aattcaagat gggaatgcct cagggtagct agcatggaaa aacaaagcaa tttacataga
+     1441 gttttaatgg atctccagaa tcagaaactg aaagagttga atgactggct aacaaaaaca
+     1501 gaagaaagaa caaggaaaat ggaggaagag cctcttggac ctgatcttga agacctaaaa
+     1561 cgccaagtac aacaacataa ggtgcttcaa gaagatctag aacaagaaca agtcagggtc
+     1621 aattctctca ctcacatggt ggtggtagtt gatgaatcta gtggagatca cgcaactgct
+     1681 gctttggaag aacaacttaa ggtattggga gatcgatggg caaacatctg tagatggaca
+     1741 gaagaccgct gggttctttt acaagacatc cttctcaaat ggcaacgtct tactgaagaa
+     1801 cagtgccttt ttagtgcatg gctttcagaa aaagaagatg cagtgaacaa gattcacaca
+     1861 actggcttta aagatcaaaa tgaaatgtta tcaagtcttc aaaaactggc cgttttaaaa
+     1921 gcggatctag aaaagaaaaa gcaatccatg ggcaaactgt attcactcaa acaagatctt
+     1981 ctttcaacac tgaagaataa gtcagtgacc cagaagacgg aagcatggct ggataacttt
+     2041 gcccggtgtt gggataattt agtccaaaaa cttgaaaaga gtacagcaca gatttcacag
+     2101 gctgtcacca ccactcagcc atcactaaca cagacaactg taatggaaac agtaactacg
+     2161 gtgaccacaa gggaacagat cctggtaaag catgctcaag aggaacttcc accaccacct
+     2221 ccccaaaaga agaggcagat tactgtggat tctgaaatta ggaaaaggtt ggatgttgat
+     2281 ataactgaac ttcacagctg gattactcgc tcagaagctg tgttgcagag tcctgaattt
+     2341 gcaatctttc ggaaggaagg caacttctca gacttaaaag aaaaagtcaa tgccatagag
+     2401 cgagaaaaag ctgagaagtt cagaaaactg caagatgcca gcagatcagc tcaggccctg
+     2461 gtggaacaga tggtgaatga gggtgttaat gcagatagca tcaaacaagc ctcagaacaa
+     2521 ctgaacagcc ggtggatcga attctgccag ttgctaagtg agagacttaa ctggctggag
+     2581 tatcagaaca acatcatcgc tttctataat cagctacaac aattggagca gatgacaact
+     2641 actgctgaaa actggttgaa aatccaaccc accaccccat cagagccaac agcaattaaa
+     2701 agtcagttaa aaatttgtaa ggatgaagtc aaccggctat cagatcttca acctcaaatt
+     2761 gaacgattaa aaattcaaag catagccctg aaagagaaag gacaaggacc catgttcctg
+     2821 gatgcagact ttgtggcctt tacaaatcat tttaagcaag tcttttctga tgtgcaggcc
+     2881 agagagaaag agctacagac aatttttgac actttgccac caatgcgcta tcaggagacc
+     2941 atgagtgcca tcaggacatg ggtccagcag tcagaaacca aactctccat acctcaactt
+     3001 agtgtcaccg actatgaaat catggagcag agactcgggg aattgcaggc tttacaaagt
+     3061 tctctgcaag agcaacaaag tggcctatac tatctcagca ccactgtgaa agagatgtcg
+     3121 aagaaagcgc cctctgaaat tagccggaaa tatcaatcag aatttgaaga aattgaggga
+     3181 cgctggaaga agctctcctc ccagctggtt gagcattgtc aaaagctaga ggagcaaatg
+     3241 aataaactcc gaaaaattca gaatcacata caaaccctga agaaatggat ggctgaagtt
+     3301 gatgtttttc tgaaggagga atggcctgcc cttggggatt cagaaattct aaaaaagcag
+     3361 ctgaaacagt gcagactttt agtcagtgat attcagacaa ttcagcccag tctaaacagt
+     3421 gtcaatgaag gtgggcagaa gataaagaat gaagcagagc cagagtttgc ttcgagactt
+     3481 gagacagaac tcaaagaact taacactcag tgggatcaca tgtgccaaca ggtctatgcc
+     3541 agaaaggagg ccttgaaggg aggtttggag aaaactgtaa gcctccagaa agatctatca
+     3601 gagatgcacg aatggatgac acaagctgaa gaagagtatc ttgagagaga ttttgaatat
+     3661 aaaactccag atgaattaca gaaagcagtt gaagagatga agagagctaa agaagaggcc
+     3721 caacaaaaag aagcgaaagt gaaactcctt actgagtctg taaatagtgt catagctcaa
+     3781 gctccacctg tagcacaaga ggccttaaaa aaggaacttg aaactctaac caccaactac
+     3841 cagtggctct gcactaggct gaatgggaaa tgcaagactt tggaagaagt ttgggcatgt
+     3901 tggcatgagt tattgtcata cttggagaaa gcaaacaagt ggctaaatga agtagaattt
+     3961 aaacttaaaa ccactgaaaa cattcctggc ggagctgagg aaatctctga ggtgctagat
+     4021 tcacttgaaa atttgatgcg acattcagag gataacccaa atcagattcg catattggca
+     4081 cagaccctaa cagatggcgg agtcatggat gagctaatca atgaggaact tgagacattt
+     4141 aattctcgtt ggagggaact acatgaagag gctgtaagga ggcaaaagtt gcttgaacag
+     4201 agcatccagt ctgcccagga gactgaaaaa tccttacact taatccagga gtccctcaca
+     4261 ttcattgaca agcagttggc agcttatatt gcagacaagg tggacgcagc tcaaatgcct
+     4321 caggaagccc agaaaatcca atctgatttg acaagtcatg agatcagttt agaagaaatg
+     4381 aagaaacata atcaggggaa ggaggctgcc caaagagtcc tgtctcagat tgatgttgca
+     4441 cagaaaaaat tacaagatgt ctccatgaag tttcgattat tccagaaacc agccaatttt
+     4501 gagcagcgtc tacaagaaag taagatgatt ttagatgaag tgaagatgca cttgcctgca
+     4561 ttggaaacaa agagtgtgga acaggaagta gtacagtcac agctaaatca ttgtgtgaac
+     4621 ttgtataaaa gtctgagtga agtgaagtct gaagtggaaa tggtgataaa gactggacgt
+     4681 cagattgtac agaaaaagca gacggaaaat cccaaagaac ttgatgaaag agtaacagct
+     4741 ttgaaattgc attataatga gctgggagca aaggtaacag aaagaaagca acagttggag
+     4801 aaatgcttga aattgtcccg taagatgcga aaggaaatga atgtcttgac agaatggctg
+     4861 gcagctacag atatggaatt gacaaagaga tcagcagttg aaggaatgcc tagtaatttg
+     4921 gattctgaag ttgcctgggg aaaggctact caaaaagaga ttgagaaaca gaaggtgcac
+     4981 ctgaagagta tcacagaggt aggagaggcc ttgaaaacag ttttgggcaa gaaggagacg
+     5041 ttggtggaag ataaactcag tcttctgaat agtaactgga tagctgtcac ctcccgagca
+     5101 gaagagtggt taaatctttt gttggaatac cagaaacaca tggaaacttt tgaccagaat
+     5161 gtggaccaca tcacaaagtg gatcattcag gctgacacac ttttggatga atcagagaaa
+     5221 aagaaacccc agcaaaaaga agacgtgctt aagcgtttaa aggcagaact gaatgacata
+     5281 cgcccaaagg tggactctac acgtgaccaa gcagcaaact tgatggcaaa ccgcggtgac
+     5341 cactgcagga aattagtaga gccccaaatc tcagagctca accatcgatt tgcagccatt
+     5401 tcacacagaa ttaagactgg aaaggcctcc attcctttga aggaattgga gcagtttaac
+     5461 tcagatatac aaaaattgct tgaaccactg gaggctgaaa ttcagcaggg ggtgaatctg
+     5521 aaagaggaag acttcaataa agatatgaat gaagacaatg agggtactgt aaaagaattg
+     5581 ttgcaaagag gagacaactt acaacaaaga atcacagatg agagaaagcg agaggaaata
+     5641 aagataaaac agcagctgtt acagacaaaa cataatgctc tcaaggattt gaggtctcaa
+     5701 agaagaaaaa aggctctaga aatttctcat cagtggtatc agtacaagag gcaggctgat
+     5761 gatctcctga aatgcttgga tgacattgaa aaaaaattag ccagcctacc tgagcccaga
+     5821 gatgaaagga aaataaagga aattgatcgg gaattgcaga agaagaaaga ggagctgaat
+     5881 gcagtgcgta ggcaagctga gggcttgtct gaggatgggg ccgcaatggc agtggagcca
+     5941 actcagatcc agctcagcaa gcgctggcgg gaaattgaga gcaaatttgc tcagtttcga
+     6001 agactcaact ttgcacaaat tcacactgtc cgtgaagaaa cgatgatggt gatgactgaa
+     6061 gacatgcctt tggaaatttc ttatgtgcct tctacttatt tgactgaaat cactcatgtc
+     6121 tcacaagccc tattagaagt ggaacaactt ctcaatgctc ctgacctctg tgctaaggac
+     6181 tttgaagatc tctttaagca agaggagtct ctgaagaata taaaagatag tctacaacaa
+     6241 agctcaggtc ggattgacat tattcatagc aagaagacag cagcattgca aagtgcaacg
+     6301 cctgtggaaa gggtgaagct acaggaagct ctctcccagc ttgatttcca atgggaaaaa
+     6361 gttaacaaaa tgtacaagga ccgacaaggg cgatttgaca gatctgttga gaaatggcgg
+     6421 cgttttcatt atgatataaa gatatttaat cagtggctaa cagaagctga acagtttctc
+     6481 agaaagacac aaattcctga gaattgggaa catgctaaat acaaatggta tcttaaggaa
+     6541 ctccaggatg gcattgggca gcggcaaact gttgtcagaa cattgaatgc aactggggaa
+     6601 gaaataattc agcaatcctc aaaaacagat gccagtattc tacaggaaaa attgggaagc
+     6661 ctgaatctgc ggtggcagga ggtctgcaaa cagctgtcag acagaaaaaa gaggctagaa
+     6721 gaacaaaaga atatcttgtc agaatttcaa agagatttaa atgaatttgt tttatggttg
+     6781 gaggaagcag ataacattgc tagtatccca cttgaacctg gaaaagagca gcaactaaaa
+     6841 gaaaagcttg agcaagtcaa gttactggtg gaagagttgc ccctgcgcca gggaattctc
+     6901 aaacaattaa atgaaactgg aggacccgtg cttgtaagtg ctcccataag cccagaagag
+     6961 caagataaac ttgaaaataa gctcaagcag acaaatctcc agtggataaa ggtttccaga
+     7021 gctttacctg agaaacaagg agaaattgaa gctcaaataa aagaccttgg gcagcttgaa
+     7081 aaaaagcttg aagaccttga agagcagtta aatcatctgc tgctgtggtt atctcctatt
+     7141 aggaatcagt tggaaattta taaccaacca aaccaagaag gaccatttga cgttaaggaa
+     7201 actgaaatag cagttcaagc taaacaaccg gatgtggaag agattttgtc taaagggcag
+     7261 catttgtaca aggaaaaacc agccactcag ccagtgaaga ggaagttaga agatctgagc
+     7321 tctgagtgga aggcggtaaa ccgtttactt caagagctga gggcaaagca gcctgaccta
+     7381 gctcctggac tgaccactat tggagcctct cctactcaga ctgttactct ggtgacacaa
+     7441 cctgtggtta ctaaggaaac tgccatctcc aaactagaaa tgccatcttc cttgatgttg
+     7501 gaggtacctg ctctggcaga tttcaaccgg gcttggacag aacttaccga ctggctttct
+     7561 ctgcttgatc aagttataaa atcacagagg gtgatggtgg gtgaccttga ggatatcaac
+     7621 gagatgatca tcaagcagaa ggcaacaatg caggatttgg aacagaggcg tccccagttg
+     7681 gaagaactca ttaccgctgc ccaaaatttg aaaaacaaga ccagcaatca agaggctaga
+     7741 acaatcatta cggatcgaat tgaaagaatt cagaatcagt gggatgaagt acaagaacac
+     7801 cttcagaacc ggaggcaaca gttgaatgaa atgttaaagg attcaacaca atggctggaa
+     7861 gctaaggaag aagctgagca ggtcttagga caggccagag ccaagcttga gtcatggaag
+     7921 gagggtccct atacagtaga tgcaatccaa aagaaaatca cagaaaccaa gcagttggcc
+     7981 aaagacctcc gccagtggca gacaaatgta gatgtggcaa atgacttggc cctgaaactt
+     8041 ctccgggatt attctgcaga tgataccaga aaagtccaca tgataacaga gaatatcaat
+     8101 gcctcttgga gaagcattca taaaagggtg agtgagcgag aggctgcttt ggaagaaact
+     8161 catagattac tgcaacagtt ccccctggac ctggaaaagt ttcttgcctg gcttacagaa
+     8221 gctgaaacaa ctgccaatgt cctacaggat gctacccgta aggaaaggct cctagaagac
+     8281 tccaagggag taaaagagct gatgaaacaa tggcaagacc tccaaggtga aattgaagct
+     8341 cacacagatg tttatcacaa cctggatgaa aacagccaaa aaatcctgag atccctggaa
+     8401 ggttccgatg atgcagtcct gttacaaaga cgtttggata acatgaactt caagtggagt
+     8461 gaacttcgga aaaagtctct caacattagg tcccatttgg aagccagttc tgaccagtgg
+     8521 aagcgtctgc acctttctct gcaggaactt ctggtgtggc tacagctgaa agatgatgaa
+     8581 ttaagccggc aggcacctat tggaggcgac tttccagcag ttcagaagca gaacgatgta
+     8641 catagggcct tcaagaggga attgaaaact aaagaacctg taatcatgag tactcttgag
+     8701 actgtacgaa tatttctgac agagcagcct ttggaaggac tagagaaact ctaccaggag
+     8761 cccagagagc tgcctcctga ggagagagcc cagaatgtca ctcggcttct acgaaagcag
+     8821 gctgaggagg tcaatactga gtgggaaaaa ttgaacctgc actccgctga ctggcagaga
+     8881 aaaatagatg agacccttga aagactccgg gaacttcaag aggccacgga tgagctggac
+     8941 ctcaagctgc gccaagctga ggtgatcaag ggatcctggc agcccgtggg cgatctcctc
+     9001 attgactctc tccaagatca cctcgagaaa gtcaaggcac ttcgaggaga aattgcgcct
+     9061 ctgaaagaga acgtgagcca cgtcaatgac cttgctcgcc agcttaccac tttgggcatt
+     9121 cagctctcac cgtataacct cagcactctg gaagacctga acaccagatg gaagcttctg
+     9181 caggtggccg tcgaggaccg agtcaggcag ctgcatgaag cccacaggga ctttggtcca
+     9241 gcatctcagc actttctttc cacgtctgtc cagggtccct gggagagagc catctcgcca
+     9301 aacaaagtgc cctactatat caaccacgag actcaaacaa cttgctggga ccatcccaaa
+     9361 atgacagagc tctaccagtc tttagctgac ctgaataatg tcagattctc agcttatagg
+     9421 actgccatga aactccgaag actgcagaag gccctttgct tggatctctt gagcctgtca
+     9481 gctgcatgtg atgccttgga ccagcacaac ctcaagcaaa atgaccagcc catggatatc
+     9541 ctgcagatta ttaattgttt gaccactatt tatgaccgcc tggagcaaga gcacaacaat
+     9601 ttggtcaacg tccctctctg cgtggatatg tgtctgaact ggctgctgaa tgtttatgat
+     9661 acgggacgaa cagggaggat ccgtgtcctg tcttttaaaa ctggcatcat ttccctgtgt
+     9721 aaagcacatt tggaagacaa gtacagatac cttttcaagc aagtggcaag ttcaacagga
+     9781 ttttgtgacc agcgcaggct gggcctcctt ctgcatgatt ctatccaaat tccaagacag
+     9841 ttgggtgaag ttgcatcctt tgggggcagt aacattgagc caagtgtccg gagctgcttc
+     9901 caatttgcta ataataagcc agagatcgaa gcggccctct tcctagactg gatgagactg
+     9961 gaaccccagt ccatggtgtg gctgcccgtc ctgcacagag tggctgctgc agaaactgcc
+    10021 aagcatcagg ccaaatgtaa catctgcaaa gagtgtccaa tcattggatt caggtacagg
+    10081 agtctaaagc actttaatta tgacatctgc caaagctgct ttttttctgg tcgagttgca
+    10141 aaaggccata aaatgcacta tcccatggtg gaatattgca ctccgactac atcaggagaa
+    10201 gatgttcgag actttgccaa ggtactaaaa aacaaatttc gaaccaaaag gtattttgcg
+    10261 aagcatcccc gaatgggcta cctgccagtg cagactgtct tagaggggga caacatggaa
+    10321 actcccgtta ctctgatcaa cttctggcca gtagattctg cgcctgcctc gtcccctcag
+    10381 ctttcacacg atgatactca ttcacgcatt gaacattatg ctagcaggct agcagaaatg
+    10441 gaaaacagca atggatctta tctaaatgat agcatctctc ctaatgagag catagatgat
+    10501 gaacatttgt taatccagca ttactgccaa agtttgaacc aggactcccc cctgagccag
+    10561 cctcgtagtc ctgcccagat cttgatttcc ttagagagtg aggaaagagg ggagctagag
+    10621 agaatcctag cagatcttga ggaagaaaac aggaatctgc aagcagaata tgaccgtcta
+    10681 aagcagcagc acgaacataa aggcctgtcc ccactgccgt cccctcctga aatgatgccc
+    10741 acctctcccc agagtccccg ggatgctgag ctcattgctg aggccaagct actgcgtcaa
+    10801 cacaaaggcc gcctggaagc caggatgcaa atcctggaag accacaataa acagctggag
+    10861 tcacagttac acaggctaag gcagctgctg gagcaacccc aggcagaggc caaagtgaat
+    10921 ggcacaacgg tgtcctctcc ttctacctct ctacagaggt ccgacagcag tcagcctatg
+    10981 ctgctccgag tggttggcag tcaaacttcg gactccatgg gtgaggaaga tcttctcagt
+    11041 cctccccagg acacaagcac agggttagag gaggtgatgg agcaactcaa caactccttc
+    11101 cctagttcaa gaggaagaaa tacccctgga aagccaatga gagaggacac aatgtaggaa
+    11161 gtcttttcca catggcagat gatttgggca gagcgatgga gtccttagta tcagtcatga
+    11221 cagatgaaga aggagcagaa taaatgtttt acaactcctg attcccgcat ggtttttata
+    11281 atattcatac aacaaagagg attagacagt aagagtttac aagaaataaa tctatatttt
+    11341 tgtgaagggt agtggtatta tactgtagat ttcagtagtt tctaagtctg ttattgtttt
+    11401 gttaacaatg gcaggtttta cacgtctatg caattgtaca aaaaagttat aagaaaacta
+    11461 catgtaaaat cttgatagct aaataacttg ccatttcttt atatggaacg cattttgggt
+    11521 tgtttaaaaa tttataacag ttataaagaa agattgtaaa ctaaagtgtg ctttataaaa
+    11581 aaaagttgtt tataaaaacc cctaaaaaca aaacaaacac acacacacac acatacacac
+    11641 acacacacaa aactttgagg cagcgcattg ttttgcatcc ttttggcgtg atatccatat
+    11701 gaaattcatg gctttttctt tttttgcata ttaaagataa gacttcctct accaccacac
+    11761 caaatgacta ctacacactg ctcatttgag aactgtcagc tgagtggggc aggcttgagt
+    11821 tttcatttca tatatctata tgtctataag tatataaata ctatagttat atagataaag
+    11881 agatacgaat ttctatagac tgactttttc cattttttaa atgttcatgt cacatcctaa
+    11941 tagaaagaaa ttacttctag tcagtcatcc aggcttacct gcttggtcta gaatggattt
+    12001 ttcccggagc cggaagccag gaggaaacta caccacacta aaacattgtc tacagctcca
+    12061 gatgtttctc attttaaaca actttccact gacaacgaaa gtaaagtaaa gtattggatt
+    12121 tttttaaagg gaacatgtga atgaatacac aggacttatt atatcagagt gagtaatcgg
+    12181 ttggttggtt gattgattga ttgattgata cattcagctt cctgctgcta gcaatgccac
+    12241 gatttagatt taatgatgct tcagtggaaa tcaatcagaa ggtattctga ccttgtgaac
+    12301 atcagaaggt attttttaac tcccaagcag tagcaggacg atgatagggc tggagggcta
+    12361 tggattccca gcccatccct gtgaaggagt aggccactct ttaagtgaag gattggatga
+    12421 ttgttcataa tacataaagt tctctgtaat tacaactaaa ttattatgcc ctcttctcac
+    12481 agtcaaaagg aactgggtgg tttggttttt gttgcttttt tagatttatt gtcccatgtg
+    12541 ggatgagttt ttaaatgcca caagacataa tttaaaataa ataaactttg ggaaaaggtg
+    12601 taaaacagta gccccatcac atttgtgata ctgacaggta tcaacccaga agcccatgaa
+    12661 ctgtgtttcc atcctttgca tttctctgcg agtagttcca cacaggtttg taagtaagta
+    12721 agaaagaagg caaattgatt caaatgttac aaaaaaaccc ttcttggtgg attagacagg
+    12781 ttaaatatat aaacaaacaa acaaaaattg ctcaaaaaag aggagaaaag ctcaagagga
+    12841 aaagctaagg actggtagga aaaagcttta ctctttcatg ccattttatt tctttttgat
+    12901 ttttaaatca ttcattcaat agataccacc gtgtgaccta taattttgca aatctgttac
+    12961 ctctgacatc aagtgtaatt agcttttgga gagtgggctg acatcaagtg taattagctt
+    13021 ttggagagtg ggttttgtcc attattaata attaattaat taacatcaaa cacggcttct
+    13081 catgctattt ctacctcact ttggttttgg ggtgttcctg ataattgtgc acacctgagt
+    13141 tcacagcttc accacttgtc cattgcgtta ttttcttttt cctttataat tctttctttt
+    13201 tccttcataa ttttcaaaag aaaacccaaa gctctaaggt aacaaattac caaattacat
+    13261 gaagatttgg tttttgtctt gcattttttt cctttatgtg acgctggacc ttttctttac
+    13321 ccaaggattt ttaaaactca gatttaaaac aaggggttac tttacatcct actaagaagt
+    13381 ttaagtaagt aagtttcatt ctaaaatcag aggtaaatag agtgcataaa taattttgtt
+    13441 ttaatctttt tgtttttctt ttagacacat tagctctgga gtgagtctgt cataatattt
+    13501 gaacaaaaat tgagagcttt attgctgcat tttaagcata attaatttgg acattatttc
+    13561 gtgttgtgtt ctttataacc accaagtatt aaactgtaaa tcataatgta actgaagcat
+    13621 aaacatcaca tggcatgttt tgtcattgtt ttcaggtact gagttcttac ttgagtatca
+    13681 taatatattg tgttttaaca ccaacactgt aacatttacg aattattttt ttaaacttca
+    13741 gttttactgc attttcacaa catatcagac ttcaccaaat atatgcctta ctattgtatt
+    13801 atagtactgc tttactgtgt atctcaataa agcacgcagt tatgttacaa aaaa
+//
+

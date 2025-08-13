@@ -1,0 +1,5 @@
+##fileformat=VCFv4.2
+#CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO
+chrX    3114019 .       C       T       100     PASS    CLNREVSTAT=reviewed;CLNSIG=PATHOGENIC;CLNVC=stop-gained
+chrX    3114020 .       G       A       100     PASS    CLNREVSTAT=reviewed;CLNSIG=PATHOGENIC;CLNVC=frameshift
+chrX    3114030 .       T       C       50      PASS    CLNREVSTAT=reviewed;CLNSIG=uncertain;CLNVC=missense
